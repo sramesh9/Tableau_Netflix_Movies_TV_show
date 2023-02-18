@@ -1,5 +1,3 @@
-# Tableau_Netflix_Movies_TV_show
-
 Netflix Dashboard_Tableau
 
 Created dashboard using Netflix dataset to visualize the Movies and TV shows based on genres, year of release, distribution rates, ratings and other factors.
